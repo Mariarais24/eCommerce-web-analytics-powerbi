@@ -30,7 +30,7 @@ Simulated e-commerce dataset — **3 months of data (July – September 2025)**,
 
 | Executive Overview | Session-Level Analysis |
 |---|---|
-| ![Executive Overview](screenshots/executive-overview.png.png) | ![Sessions](screenshots/sessions.png) |
+| ![Executive Overview]((https://github.com/Mariarais24/eCommerce-web-analytics-powerbi/blob/main/executive-overview.png.png)) | ![Sessions](screenshots/sessions.png) |
 
 | Page-Level Performance | Checkout & Conversion |
 |---|---|
