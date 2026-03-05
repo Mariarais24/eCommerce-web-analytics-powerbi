@@ -28,15 +28,17 @@ Simulated e-commerce dataset — **3 months of data (July – September 2025)**,
 
 ## 📊 Dashboard
 
+> 🎥 *GIF walkthrough — coming soon*
+
 | Executive Overview | Session-Level Analysis |
 |---|---|
-| ![Executive Overview]((https://github.com/Mariarais24/eCommerce-web-analytics-powerbi/blob/main/executive-overview.png.png)) | ![Sessions](screenshots/sessions.png) |
+| ![Executive Overview](https://raw.githubusercontent.com/Mariarais24/eCommerce-web-analytics-powerbi/main/executive-overview.png) | ![Sessions](https://raw.githubusercontent.com/Mariarais24/eCommerce-web-analytics-powerbi/main/sessions.png) |
 
 | Page-Level Performance | Checkout & Conversion |
 |---|---|
-| ![Page Performance](screenshots/page-performance.png) | ![Conversion](screenshots/conversion.png)|
+| ![Page Performance](https://raw.githubusercontent.com/Mariarais24/eCommerce-web-analytics-powerbi/main/page-performance.png) | ![Conversion](https://raw.githubusercontent.com/Mariarais24/eCommerce-web-analytics-powerbi/main/conversion.png) |
 
----
+--
 
 ## 💡 Dashboard Breakdown
 
