@@ -28,8 +28,6 @@ Simulated e-commerce dataset — **3 months of data (July – September 2025)**,
 
 ## 📊 Dashboard
 
-> 🎥 *GIF walkthrough — coming soon*
-
 | Executive Overview | Session-Level Analysis |
 |---|---|
 | ![Executive Overview](https://raw.githubusercontent.com/Mariarais24/eCommerce-web-analytics-powerbi/main/executive-overview.png) | ![Sessions](https://raw.githubusercontent.com/Mariarais24/eCommerce-web-analytics-powerbi/main/sessions.png) |
