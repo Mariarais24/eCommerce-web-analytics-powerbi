@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Web Analytics — Page Performance & Conversion Diagnosis
+# 🛒 E-Commerce Web Analytics Dashboard
 
 **Identifying where slow pages are killing conversions in an e-commerce store.**
 
@@ -32,11 +32,11 @@ Simulated e-commerce dataset — **3 months of data (July – September 2025)**,
 
 | Executive Overview | Session-Level Analysis |
 |---|---|
-| ![Executive Overview](screenshots/executive-overview.png) | ![Sessions](screenshots/sessions.png) |
+| ![Executive Overview]([screenshots/executive-overview.png](https://github.com/Mariarais24/eCommerce-web-analytics-powerbi/blob/main/executive-overview.png.png)) | ![Sessions]([screenshots/sessions.png](https://github.com/Mariarais24/eCommerce-web-analytics-powerbi/blob/main/sessions.png.png)) |
 
 | Page-Level Performance | Checkout & Conversion |
 |---|---|
-| ![Page Performance](screenshots/page-performance.png) | ![Conversion](screenshots/conversion.png) |
+| ![Page Performance]([screenshots/page-performance.png](https://github.com/Mariarais24/eCommerce-web-analytics-powerbi/blob/main/page-performance.png.png)) | ![Conversion]([screenshots/conversion.png](https://github.com/Mariarais24/eCommerce-web-analytics-powerbi/blob/main/conversion.png.png)) |
 
 ---
 
